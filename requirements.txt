@@ -1,0 +1,6 @@
+pandas
+spotipy
+matplotlib
+scikit-learn
+pickle-mixin
+july
